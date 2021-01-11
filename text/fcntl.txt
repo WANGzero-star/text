@@ -1,0 +1,4 @@
+fcntl introduce
+
+https://www.cnblogs.com/likui360/p/6364004.html
+
