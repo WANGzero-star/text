@@ -96,7 +96,7 @@ static ssize_t mywrite (struct file *file, const char __user *buf, size_t len, l
 {
 	int count = -1;
 	
-
+	printf("mywrite\n");
 	return count;
 }
 
